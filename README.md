@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atef Mohamed</h1>
-<h3 align="center">I’m a mobile app developer and a software engineering undergraduate. I use flutter and dart to build cross-platform mobile apps.</h3>
+<h3 align="center">I’m a mobile app developer and a software engineering. I use flutter and dart to build cross-platform mobile apps.</h3>
 
-- 🔭 I’m currently working on **FitnessOnline**
+- 🔭 I’m currently working on **Geroglly app**
 
 - 📫 How to reach me **ateflewezo@gmail.com**
 
