@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atef Mohamed</h1>
-<h3 align="center">I’m a mobile app developer and a software engineering. I use flutter and dart to build cross-platform mobile apps.</h3>
+<h3 align="center">I'm a passionate Mobile App Developer who loves developing mobile apps for both Android and iOS devices with good experience.
+ I have been working as a Flutter Developer for more than 2 years. I have worked with different companies as full-time and part-time employee. I have built a lot of apps for those companies some of them are uploaded to both Google Play and App Store and others were built for staff use.  
+
+</h3>
 
 - 🔭 I’m currently working on **Geroglly app**
 
